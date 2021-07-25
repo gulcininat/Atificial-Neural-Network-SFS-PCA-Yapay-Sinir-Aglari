@@ -16,6 +16,7 @@ Bu projede istenilen feature sayısı 6 dır. 16 featuredan 6 featurea indirgenm
 2- PCA 
 PCA (Principle Component Analysis) yöntemi kullanılarak toplam 16 adet feaure sayısı istenilen feature sayısına indirgenerek, daha az sayıda feature ile daha anlamlı sonuçlar üretilmek istenilmiştir.
 Bu projede istenilen feature sayısı 9 dur. 16 featuredan 9 featurea indirgenmiştir.
+
 --------------
 
 MLP yapısı kurularak model eğitilmiştir. 
