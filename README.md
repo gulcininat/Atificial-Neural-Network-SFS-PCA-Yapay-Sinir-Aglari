@@ -1,4 +1,4 @@
-# Atificial-Neural-Network-SFS-Yapay-Sinir-Aglari
+# Atificial-Neural-Network SFS PCA Yapay-Sinir-Aglari
 
 Artificial Neural Network yani Yapay Sinir Ağları uygulaması drive üzerinden Colab platformunda gerçekleştirilmiştir. Kodlar python dilindedir. Baştaki bağlantı kodlarını kullanmazsanız, spyder platformunda da kullanabilirsiniz. Fakat Colabda daha hızlı sonuç alınmaktadır.
 
