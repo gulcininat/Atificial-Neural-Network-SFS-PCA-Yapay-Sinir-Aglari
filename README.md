@@ -1,1 +1,1 @@
-# Atificial-Neural-Network-SFS-Yapay-Sinir-A-lar-
+# Atificial-Neural-Network-SFS-Yapay-Sinir-Aglari
